@@ -1,4 +1,5 @@
 Project is written in Symfomy 3.4, PHP 7.2, Apache 2.4, MySQL 5.6.
+Has one external bundle Curl\Curl.
 Project's folder is "test". \test\web must be web server's "Document Root".
 Files:
 \test\src\AppBundle\Entity\Group.php - group entity
